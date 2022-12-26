@@ -3,7 +3,7 @@
 Update Roku Pay. Change your Roku account billing and payment method
 Learn how to update the payment method that is associated with your  Roku account
 
-Call Roku Customer care phone number
+<b>Call Roku Customer care phone number</b>
 
 Sign into my.roku.com or go to Settings > Payment method on your Roku streaming device. Note that you can only have one payment method per Roku account.
 
@@ -13,7 +13,7 @@ Sign into my.roku.com or go to Settings > Payment method on your Roku streaming 
 •	Choose payment method to add, change, or remove
 •	Call Roku Billing phone number
 
-Update payment method on Roku streaming device
+<b>Update payment method on Roku streaming device</b>
 •	Press Home  on your Roku remote
 •	Select Settings
 •	Select Payment method
@@ -22,7 +22,7 @@ Update payment method on Roku streaming device
 •	For Paypal: a link will be sent connecting to your PayPal account
 •	Accepted payment methods
 
-The following payment methods can be used for Roku Pay:
+<b>The following payment methods can be used for Roku Pay:</b>
 
 •	MasterCard
 •	Visa
@@ -31,7 +31,7 @@ The following payment methods can be used for Roku Pay:
 Prepaid gift cards if the payment merchant (e.g., Visa, Discover) is accepted in your geographic region
 Troubleshooting
 
-Try the following to help resolve issues adding or updating your payment information:
+<b>Try the following to help resolve issues adding or updating your payment information:</b>
 
 •	Make sure you entered card numbers correctly
 •	Try a different card or PayPal account
@@ -41,7 +41,7 @@ Try the following to help resolve issues adding or updating your payment informa
  
 FAQ’s: Call Roku Billing phone number
 
-How do I manage my Roku account?
+<b>How do I manage my Roku account?</b>
 
 Sign in to your Roku account to:
 
@@ -59,7 +59,7 @@ Sign in to your Roku account to:
 
 7.    Change your payment method.
 
-How do I stop Roku from taking money out of my account?
+<b>How do I stop Roku from taking money out of my account?</b>
 
 Unsubscribe , cancel or turn off auto renew
 
@@ -73,7 +73,7 @@ To turn off auto-renew, cancel subscriptions purchased with Roku Pay and or thro
 
 4.    Select Turn off auto-renew.
 
-How do I access my Roku account?
+<b>How do I access my Roku account?</b>
 
 Sign in to Roku app on mobile
 
@@ -85,7 +85,7 @@ Sign in to your Roku account the Roku mobile app using the steps below.
 
 3.    Tap Sign in and enter your email address and password.
 
-How do I update my payment info on Roku?
+<b>How do I update my payment info on Roku?</b>
 
 Update Roku Pay and change payment method
 
@@ -103,7 +103,7 @@ Update credit card details from your Roku device
 
  
 
-Why is Roku charging me every month?
+<b>Why is Roku charging me every month?</b>
 
 If you do not recognize a charge follow these steps
 
@@ -111,7 +111,7 @@ Free streaming subscription trials automatically turn into paid subscriptions th
 
  
 
-Does Roku charge a monthly fee?
+<b>Does Roku charge a monthly fee?</b>
 
 How does Roku Streaming TV billing works
 
@@ -119,7 +119,7 @@ There are no monthly fees for watching free channels or for using a Roku device.
 
  
 
-Can I remove my credit card from Roku?
+<b>Can I remove my credit card from Roku?</b>
 
 Remove Payment Method on TV
 
@@ -127,7 +127,7 @@ You will be unable to remove your payment method through your TV. You will need 
 
  
 
-How do I block purchases on Roku?
+<b>How do I block purchases on Roku?</b>
 
 Create , Delete, Reset , find or reset  PIN for Roku Account Call Roku Customer care phone number
 
